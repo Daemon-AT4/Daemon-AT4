@@ -1,273 +1,192 @@
-```
-██████╗  █████╗ ███████╗███╗   ███╗ ██████╗ ███╗   ██╗      █████╗ ████████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔════╝████╗ ████║██╔═══██╗████╗  ██║     ██╔══██╗╚══██╔══╝██║  ██║
-██║  ██║███████║█████╗  ██╔████╔██║██║   ██║██╔██╗ ██║     ███████║   ██║   ███████║
-██║  ██║██╔══██║██╔══╝  ██║╚██╔╝██║██║   ██║██║╚██╗██║     ██╔══██║   ██║   ╚════██║
-██████╔╝██║  ██║███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║     ██║  ██║   ██║        ██║
-╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝     ╚═╝  ╚═╝   ╚═╝        ╚═╝
-```
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- DAEMON-AT4 // CYBERPUNK TERMINAL HUD PROFILE                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&pause=1000&color=EB6F92E6&center=true&width=435&lines=%3A%24+D%CE%9B%CE%A3M%D3%A8%D0%9F;BSc+(Hons)+ETHHAC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Daemon-AT4+%3A%3A+Ethical+Hacker;%3E+Netrunner+%3A%3A+Offensive+Security;%3E+NixOS+Enthusiast+%3A%3A+HTB+Grinder)](https://github.com/Daemon-AT4)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Daemon-AT4&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
- ⚡ 4TH YEAR ETHICAL HACKING STUDENT ⚡ HONORS PROJECT: NixOS Security Research
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────────────┐
+│  4th Year Ethical Hacking Student // Offensive Security // NixOS        │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> SYSTEM STATUS: ONLINE_`
-
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+## `$ whoami`
 
 </div>
-
----
-
-```
-    ╭──────────────────────────────────────────────────────────────────╮
-    │                                                                  │
-    │   > INITIALIZING NEURAL INTERFACE...                             │
-    │   > LOADING EXPLOIT FRAMEWORKS...                                │
-    │   > BYPASSING ICE PROTOCOLS...                                   │
-    │   > ACCESS GRANTED                                               │
-    │                                                                  │
-    │   ██████████████████████████████████████████████ 100%            │
-    │                                                                  │
-    ╰──────────────────────────────────────────────────────────────────╯
-```
-
-## `// ABOUT_ME.py`
 
 ```python
 #!/usr/bin/env python3
-class Netrunner:
+class DaemonAT4:
     def __init__(self):
-        self.alias = "00xNetrunner"
-        self.role = "4th Year Ethical Hacking Student"
-        self.honors_project = "NixOS as a Kali Linux Alternative"
-        self.university = "[REDACTED]"
-        self.current_status = "Jacked into the Matrix"
+        self.alias    = "Daemon-AT4"
+        self.role     = "4th Year Ethical Hacking Student"
+        self.focus    = ["Offensive Security", "Penetration Testing", "NixOS"]
+        self.htb      = "Global Rank #917 | 58 Flags | Pro Labs: Dante & Zephyr"
+        self.status   = "Active on HackTheBox"
 
-    def get_mission(self):
-        return """
-        Researching whether NixOS can serve as a viable alternative
-        to Kali Linux for penetration testing and security research.
-        Exploring reproducible security environments and declarative
-        system configurations for offensive security operations.
-        """
-
-    def daily_routine(self):
-        activities = [
-            "☕ Coffee && HTB Academy Modules",
-            "🔓 Pwning boxes on HackTheBox",
-            "📡 Hardware hacking with gadgets",
-            "🐧 Building NixOS security configs",
-            "⚡ Hunting for lightning strikes"
+    def current_ops(self):
+        return [
+            "Grinding HTB boxes & labs",
+            "Building NixOS security configs",
+            "Hardware hacking with the arsenal",
         ]
-        return activities
 ```
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⚡ ARSENAL // GADGETS & TOOLS ⚡`
+## `$ htb --profile`
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     >> HARDWARE LOADOUT <<                          │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://app.hackthebox.com/users/2188380">
+  <img src="https://www.hackthebox.com/badge/image/2188380" alt="Hack The Box Profile Badge"/>
+</a>
 
-![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6600?style=for-the-badge&logo=probot&logoColor=white)
-![WiFi Pineapple](https://img.shields.io/badge/WiFi_Pineapple-76B900?style=for-the-badge&logo=wifi&logoColor=white)
-![BadUSB](https://img.shields.io/badge/BadUSB-FF0000?style=for-the-badge&logo=usb&logoColor=white)
-![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-000000?style=for-the-badge&logo=ghost&logoColor=white)
-![Rubber Ducky](https://img.shields.io/badge/Rubber_Ducky-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
+<br/><br/>
+
+![Dante](https://img.shields.io/badge/PRO_LAB-DANTE_✔-00d9ff?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Zephyr](https://img.shields.io/badge/PRO_LAB-ZEPHYR_✔-00d9ff?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![Rank](https://img.shields.io/badge/GLOBAL_RANK-%23917-ff006e?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Flags](https://img.shields.io/badge/FLAGS-58-ff006e?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Season](https://img.shields.io/badge/SILVER_TIER-S10-ff006e?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
----
-
-```
-                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-                    █ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓ █
-                    █ ┃   HONORS PROJECT: NixOS    ┃ █
-                    █ ┃   >> Security Research <<  ┃ █
-                    █ ┃                            ┃ █
-                    █ ┃  Can NixOS replace Kali?   ┃ █
-                    █ ┃  Reproducible pentesting   ┃ █
-                    █ ┃  Declarative security      ┃ █
-                    █ ┃  Atomic system rollbacks   ┃ █
-                    █ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛ █
-                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> SKILL_MATRIX.dll`
+## `$ cat arsenal.txt`
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### `>> SOFTWARE LOADOUT <<`
 
-### 🔐 Security & Pentesting
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nix,python,bash,js,linux,kali,git&theme=dark" alt="Skill Icons"/>
+</a>
 
-### 🐧 Operating Systems
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+<br/><br/>
+
+#### 🔐 Security & Pentesting
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-00ff41?style=for-the-badge&logo=burpsuite&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-00ff41?style=for-the-badge&logo=metasploit&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge&logo=wireshark&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge&logo=gnometerminal&logoColor=black)
+![OWASP](https://img.shields.io/badge/OWASP-00ff41?style=for-the-badge&logo=owasp&logoColor=black)
+
+#### 🐧 Operating Systems
+
+![NixOS](https://img.shields.io/badge/NixOS-00ff41?style=for-the-badge&logo=nixos&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-00ff41?style=for-the-badge&logo=kalilinux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-00ff41?style=for-the-badge&logo=archlinux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-00ff41?style=for-the-badge&logo=debian&logoColor=black)
 
 </div>
 
----
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
-║     ░░   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ░░    ║
-║     ░░   █  H T B   A C A D E M Y   //   L A B S   //   C T F s    █   ░░    ║
-║     ░░   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ░░    ║
-║     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
-║                                                                               ║
-║   Currently grinding through:                                                 ║
-║   ├── 📚 HTB Academy Modules                                                  ║
-║   ├── 🎯 HackTheBox Labs & Machines                                           ║
-║   ├── 🏴 CTF Challenges                                                       ║
-║   └── 🔬 Security Research                                                    ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> SYSTEM_STATS.log`
+## `$ lsusb --gadgets`
 
-<img src="https://github-readme-stats.vercel.app/api?username=00xNetrunner&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9FEF00&title_color=58a6ff&border_color=30363d" alt="GitHub Stats">
+### `>> HARDWARE LOADOUT <<`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=00xNetrunner&background=0d1117&border=30363d&stroke=9FEF00&ring=58a6ff&fire=FF6600&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak">
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-8b00ff?style=for-the-badge&logo=probot&logoColor=white)
+![WiFi Pineapple](https://img.shields.io/badge/WiFi_Pineapple-8b00ff?style=for-the-badge&logo=wifi&logoColor=white)
+![BadUSB](https://img.shields.io/badge/BadUSB-8b00ff?style=for-the-badge&logo=usb&logoColor=white)
+![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-8b00ff?style=for-the-badge&logo=ghost&logoColor=white)
+![Rubber Ducky](https://img.shields.io/badge/Rubber_Ducky-8b00ff?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OMG Cables](https://img.shields.io/badge/OMG_Cables-8b00ff?style=for-the-badge&logo=lightning&logoColor=white)
+![uConsole](https://img.shields.io/badge/Clockwork_uConsole-8b00ff?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
----
-
-```
-              ╔══════════════════════════════════════════════════════╗
-              ║                                                      ║
-              ║"Fear the lightning that strikes twice"               ║
-              ║                                                      ║
-              ╚══════════════════════════════════════════════════════╝
-```
-
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `// CURRENT_FOCUS`
+## `$ neofetch --github`
 
-| 🎯 Target | 📊 Status | 🔋 Progress |
-|-----------|-----------|-------------|
-| NixOS Security Research | `IN_PROGRESS` | ████░░░░░ 50% |
-| HTB Academy Modules | `ACTIVE` | ██████░░░░ 60% |
-| Flipper Zero Experiments | `ONGOING` | ███████░░░ 70% |
-| Honors Project Thesis | `WRITING` | ██████░░░░ 60% |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Daemon-AT4&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff41&title_color=00d9ff&border_color=30363d&hide_border=false" alt="GitHub Stats" width="420"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Daemon-AT4&background=0d1117&border=30363d&stroke=00ff41&ring=00d9ff&fire=ff006e&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e" alt="GitHub Streak" width="420"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daemon-AT4&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00d9ff&border_color=30363d&hide_border=false" alt="Top Languages" width="350"/>
+
+<br/><br/>
+
+<!-- Profile Summary Cards — requires GitHub Actions workflow to populate the output branch -->
+<img src="https://raw.githubusercontent.com/Daemon-AT4/Daemon-AT4/profile-summary-card-output/profile-summary-card-output/2-most-commit-language.svg" alt="Commits per Language" width="420"/>
+<img src="https://raw.githubusercontent.com/Daemon-AT4/Daemon-AT4/profile-summary-card-output/profile-summary-card-output/4-productive-time.svg" alt="Productive Time" width="420"/>
+
+<br/><br/>
+
+<!-- Contribution Snake — requires GitHub Actions workflow to populate the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daemon-AT4/Daemon-AT4/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Daemon-AT4/Daemon-AT4/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
- █                                                                  █
- █  [█████] CONNECT WITH ME [█████]                                 █
- █                                                                  █
- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+## `$ ls ~/projects/`
 
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/00xNetrunner)
-
----
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  $ echo "Thanks for visiting my profile!"                        │
-│  $ echo "Remember: The only secure system is one that's off."    │
-│  $ sudo rm -rf /boredom && ./hack_the_planet                     │
-│                                                                  │
-│  [TRANSMISSION ENDED]                                            │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=00xNetrunner&color=9FEF00&style=for-the-badge&label=PROFILE+VIEWS)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Daemon-AT4/IceBreaker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daemon-AT4&repo=IceBreaker&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff41&title_color=00d9ff&border_color=30363d" alt="IceBreaker" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Daemon-AT4/HTB-Lab-Writeups">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daemon-AT4&repo=HTB-Lab-Writeups&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff41&title_color=00d9ff&border_color=30363d" alt="HTB Lab Writeups" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-                    ░░                                           ░░
-                    ░░    ╔═╗╔═╗╔╗╔╔╗╔╔═╗╔═╗╔╦╗╦╔═╗╔╗╔           ░░
-                    ░░    ║  ║ ║║║║║║║║╣ ║   ║ ║║ ║║║║           ░░
-                    ░░    ╚═╝╚═╝╝╚╝╝╚╝╚═╝╚═╝ ╩ ╩╚═╝╝╚╝           ░░
-                    ░░                                           ░░
-                    ░░      ╔╦╗╔═╗╦═╗╔╦╗╦╔╗╔╔═╗╔╦╗╔═╗╔╦╗         ░░
-                    ░░       ║ ║╣ ╠╦╝║║║║║║║╠═╣ ║ ║╣  ║║         ░░
-                    ░░       ╩ ╚═╝╩╚═╩ ╩╩╝╚╝╩ ╩ ╩ ╚═╝═╩╝         ░░
-                    ░░                                           ░░
-                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+## `$ cat contact.txt`
 
-              ⚡ "In the neon glow, we trust the code" ⚡
+[![Website](https://img.shields.io/badge/daemon--sec.xyz-00d9ff?style=for-the-badge&logo=firefox&logoColor=black)](https://daemon-sec.xyz)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2188380)
+[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:iota43_dice@icloud.com)
 
-                      ██████████████████████████████
-                      █                            █
-                      █   [SESSION TERMINATED]     █
-                      █   [LOGGING OFF...]         █
-                      █   [SEE YOU, SPACE COWBOY]  █
-                      █                            █
-                      ██████████████████████████████
-```
+<br/>
 
-</div>
+<details>
+<summary>🔐 PGP Public Key (click to expand)</summary>
 
-E-Mail:
-```
-iota43_dice@icloud.com
-```
+<br/>
 
-Public Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -323,4 +242,24 @@ wi7hMx1q26s=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
----
+</details>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  $ echo "Thanks for stopping by."                                │
+│  $ echo "The only secure system is one that's powered off."      │
+│                                                                  │
+│  [SESSION TERMINATED]                                            │
+│  [LOGGING OFF...]                                                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
